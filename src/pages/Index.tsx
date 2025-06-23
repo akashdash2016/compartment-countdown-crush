@@ -72,7 +72,7 @@ const Index = () => {
         <div className="max-w-6xl mx-auto px-6 py-4">
           <div className="flex items-center space-x-2">
             <Target className="h-6 w-6 text-blue-600" />
-            <h1 className="text-xl font-semibold text-gray-900">CBSE Compartment Success Hub</h1>
+            <h1 className="text-xl font-semibold text-gray-900">AD Classes CBSE Compartment Success</h1>
           </div>
         </div>
       </div>
